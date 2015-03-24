@@ -5,4 +5,4 @@ Many in the gallery missed the flocking patterns completely, but I don’t mind.
 
 Based on the behavior of reef squid and other cool creatures. Boid and flocking by [Dan Shiffman](http://shiffman.net/). Underlying structure from a flash construction by [Jared Tarbell](http://www.complexification.net/), originally inspired from work by [Martin Wattenberg](http://www.bewitched.com/).
 
-Documentation (here)[http://www.petehawkes.com/blog/2010/squid-wall/]
+Documentation [here](http://www.petehawkes.com/blog/2010/squid-wall/)
